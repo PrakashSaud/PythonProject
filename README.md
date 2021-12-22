@@ -1,2 +1,2 @@
 # PythonProject
-This is first python project in git
+This is my personal repository which contains mini projects during learning
